@@ -1,0 +1,2 @@
+cleanliness_score,odor_score,waste_level,complaints,footfall,hours_since_cleaning,complaints_per_100_people,cleaning_pressure,predicted_hygiene_risk,risk_label
+5,7,7,6,350,12,1.7142857142857144,4200,1,High Risk
